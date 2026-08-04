@@ -18,7 +18,7 @@ TARGETS:
 
 ADDITIONAL:
 - Ram Cache (This needs 'EmptyStandbyList.exe')
-- Hyper-V (Virtualization)
+- Hyper-V (Virtualization) (Virtual Disks and VirtualMachine datas)
 
 PROGRAM FEATURES:
 - Colorful Background per operation
