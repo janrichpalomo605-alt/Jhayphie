@@ -1,5 +1,4 @@
-# Jhayphie
-"Palomo's Cleaner v1.0"
+# "Palomo's Cleaner v1.0"
 
 This program was purposely made for windows computer or laptop users who are kinda "lazy" to delete junk temp files on their system.
 
