@@ -1,6 +1,6 @@
 # "Palomo's Cleaner v1.0"
 
-This program was purposely made for windows computer or laptop users who are kinda "lazy" to delete junk temp files on their system.
+This program was purposely made for windows computers or laptop users who are kinda "lazy" to delete junk temp files on their system.
 
 Before, It's was made using only batch files using notepad++ for myself only. It served it's purpose until the several months passed, I learned "Python" (not advanced, just Intermediate) before I even go to college. I have finally made this project which is called "Palomo's Cleaner" and this program is fully functional than how I made it with batch files.
 
