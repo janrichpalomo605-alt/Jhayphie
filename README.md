@@ -9,8 +9,8 @@ This program only works with Laptops/Desktop Computers with Windows operating sy
 NOTE: It only depends on the option you input in the menu:
 
 TARGETS:
-- User's temp
-- Windows temp
+- User's temp (%temp%)
+- Windows temp (temp)
 - Prefetch
 - Recycling Bin
 
